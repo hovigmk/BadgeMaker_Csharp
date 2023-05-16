@@ -1,0 +1,15 @@
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\catWorx.BadgeMaker.exe
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\catWorx.BadgeMaker.deps.json
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\catWorx.BadgeMaker.runtimeconfig.json
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\catWorx.BadgeMaker.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\catWorx.BadgeMaker.pdb
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.csproj.AssemblyReference.cache
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\refint\catWorx.BadgeMaker.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.pdb
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.genruntimeconfig.cache
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\ref\catWorx.BadgeMaker.dll
