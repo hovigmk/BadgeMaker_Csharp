@@ -43,11 +43,11 @@ while(true)
 // }
 //   }
 
- static void Main(string[] args) {
+async static void Main(string[] args) {
   List<Employee> employees = GetEmployees();
  Util.PrintEmployees(employees);
  Util.MakeCSV(employees);
- Util.MakeBadges(employees);
+ await Util.MakeBadges(employees);
 }
 }
 }

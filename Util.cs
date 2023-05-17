@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using SkiaSharp;
+using System.Net.Http;
+using System.Threading.Tasks;
 
 namespace CatWorx.BadgeMaker
 {
@@ -28,10 +30,24 @@ using (StreamWriter file = new StreamWriter("data/employees.csv"))
   // Any code that needs the StreamWriter would go in here
 }
     }
-     public static void MakeBadges(List<Employee> employees) {
-        SKImage newImage = SKImage.FromEncodedData(File.OpenRead("badge.png"));
-        SKData data = newImage.Encode();
-        data.SaveTo(File.OpenWrite("data/employeeBadge.png"));
+     async public static Task MakeBadges(List<Employee> employees) {
+        // SKImage newImage = SKImage.FromEncodedData(File.OpenRead("badge.png"));
+        // SKData data = newImage.Encode();
+        // data.SaveTo(File.OpenWrite("data/employeeBadge.png"));
+        int BADGE_WIDTH = 669;
+int BADGE_HEIGHT = 1044;
+         using(HttpClient client = new HttpClient())
+  {
+    for (int i = 0; i < employees.Count; i++)
+  { 
+    SKImage photo = SKImage.FromEncodedData(await client.GetStreamAsync(employees[i].GetPhotoUrl()));
+    SKImage background = SKImage.FromEncodedData(File.OpenRead("badge.png"));
+    SKData data = background.Encode();
+    data.SaveTo(File.OpenWrite("data/employeeBadge.png"));
+    SKBitmap badge = new SKBitmap(BADGE_WIDTH, BADGE_HEIGHT);
+    SKCanvas canvas = new SKCanvas(badge);
+  }
+  }
      }
   }
 }
