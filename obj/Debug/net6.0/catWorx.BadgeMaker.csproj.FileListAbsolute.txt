@@ -13,3 +13,9 @@ C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\refint\catWo
 C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.pdb
 C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.genruntimeconfig.cache
 C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\ref\catWorx.BadgeMaker.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\SkiaSharp.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\bin\Debug\net6.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\hovig\Desktop\Bootcamp\catWorx.BadgeMaker\obj\Debug\net6.0\catWorx.BadgeMaker.csproj.CopyComplete
